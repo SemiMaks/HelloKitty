@@ -6,7 +6,17 @@
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
+                android:background="@color/background_color"
                 tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_above="@+id/imageButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="66dp"
+        android:hint="Введите имя кота" />
 
     <ImageButton
         android:id="@+id/imageButton"
