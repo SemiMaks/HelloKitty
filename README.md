@@ -1,4 +1,5 @@
 # HelloKitty
-Hello Kitty - первое приложение для Android
+<br>
 Код для примера из статьи Hello Kitty - Создаем первое приложение для Android
-http://developer.alexanderklimov.ru/android/android2.php
+<a href="http://developer.alexanderklimov.ru/android/android2.php">http://developer.alexanderklimov.ru/android/android2.php</a><br>
+
